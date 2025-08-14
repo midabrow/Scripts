@@ -1,4 +1,3 @@
-# Import required modules
 from bs4 import BeautifulSoup
 
 # Load English definitions and Polish translations
